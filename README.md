@@ -25,7 +25,7 @@ It automatically URL-encodes your query and opens the Google results in your def
 
 ## 📦 Installation
 
-### **Option 1 — Clone the Repository**
+### **Clone the Repository**
 ```bash
 git clone https://github.com/yourusername/google-dork-launcher
 cd google-dork-launcher
